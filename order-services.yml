@@ -8,8 +8,7 @@ spring:
   datasource:
     url: jdbc:postgresql://localhost:5432/orderdb
     username: postgres
-    password: myRealPassword368
-    driver-class-name: org.postgresql.Driver
+    password: preksha@368
 
   jpa:
     hibernate:
